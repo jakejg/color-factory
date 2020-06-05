@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="Colors"
+    >
+      <h1
+        class="Colors-title"
+      >
+        Select a Color
+      </h1>
+      <ul
+        class="Colors-list"
+      >
+        <li>
+          <a
+            href="/colors/Red"
+          >
+            Red
+          </a>
+        </li>
+        <li>
+          <a
+            href="/colors/Green"
+          >
+            Green
+          </a>
+        </li>
+        <li>
+          <a
+            href="/colors/Aqua"
+          >
+            Aqua
+          </a>
+        </li>
+      </ul>
+      <h2>
+        Or add a 
+        <a
+          href="/colors/new"
+        >
+          color
+        </a>
+      </h2>
+    </div>
+  </div>
+</DocumentFragment>
+`;

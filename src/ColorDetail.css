@@ -1,0 +1,19 @@
+.ColorDetail {
+    
+    font-weight: bolder;
+    font-size: 3em;
+    color: white;
+    height: 100vh;
+}
+
+.ColorDetail-text {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.ColorDetail-link {
+    text-decoration: none;
+}

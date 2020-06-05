@@ -1,0 +1,11 @@
+.Colors-list {
+    list-style: none;
+    padding: 0px;
+}
+
+.Colors-title {
+    background-color: rgb(92, 92, 92);
+    color: white;
+    padding: 10px;
+    margin-top: 0px;
+}
